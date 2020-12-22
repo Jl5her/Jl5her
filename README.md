@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jack Pfeiffer</h1>
 <h3 align="center">A passionate software developer from Wisconsin</h3>
 
-- 🔭 I’m currently working on **everything and anything**
+- 💼 I’m currently working as a Quality Control Specialist at [iStream Financial Services](https://www.istreamfs.com/)
+
+- 🔭 In my freetime I am working on [Abacus](https://github.com/acm-mu/abacus).
 
 - 🌱 I’m currently learning **everything and anything**
 
