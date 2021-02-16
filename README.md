@@ -5,7 +5,8 @@
 
 - 🔭 In my freetime I am working on [Abacus](https://github.com/acm-mu/abacus).
 
-- 🌱 I’m currently learning **everything and anything**
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Node.js](https://nodejs.org/), and
+[Gatsby](https://www.gatsbyjs.com/)
 
 - 👯 I’m looking to collaborate on **more open source repos**
 
@@ -13,13 +14,48 @@
 
 ### Connect with me:
 
-<p align="left"> 
-<a href="https://linkedin.com/in/pfeifferj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pfeifferj" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/jack-pfeiffer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="jack-pfeiffer" height="30" width="30" /></a>
-</p>
+<a href="https://linkedin.com/in/pfeifferj" target="_blank">
+  <img src="https://img.shields.io/badge/Linked_In-006192?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/jack-pfeiffer" target="_blank">
+  <img src="https://img.shields.io/badge/StackOverflow-D64A17?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="mailto:pfeiffer.jack@yahoo.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-00AFF0?style=for-the-badge&logo=Mail.RU&logoColor=white" />
+</a>
 
-### Language and Tools:
+### Language:
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="40" height="40"/></p>
+<img src="https://img.shields.io/badge/Java-D64A17?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-3949ab?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=PostgresQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jl5her" alt="jl5her" /> </p>
+### Frameworks
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+</a>
+<a href="https://reactjs.org/" target="_blank">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</a>
+
+### Tools
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white" />
+<img
+  src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-D64A17?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=white" />
+
+<img src="https://komarev.com/ghpvc/?username=jl5her" alt="jl5her" />
