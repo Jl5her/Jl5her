@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Amazon_AWS-D64A17?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=LINUX&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=LINUX&logoColor=FCC624" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=jl5her" alt="jl5her" />
