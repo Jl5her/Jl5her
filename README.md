@@ -12,18 +12,20 @@
   <a href="mailto:pfeiffer.jack@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00AFF0?style=for-the-badge&logo=Mail.RU&logoColor=white" />
   </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=jl5her" alt="jl5her" />
+</p>
   
-💼 I’m currently working as a Quality Control Specialist at [iStream Financial Services](https://www.istreamfs.com/)
+   💼 I’m currently working as a Quality Control Specialist at [iStream Financial Services](https://www.istreamfs.com/)
 
-🔭 In my freetime I am working on [Abacus](https://github.com/acm-mu/abacus).
+🔭 In my free time I am working on [Abacus](https://github.com/acm-mu/abacus).
 
 🌱 I’m currently learning [React](https://reactjs.org/), [Node.js](https://nodejs.org/), and
-  [Gatsby](https://www.gatsbyjs.com/)
+[Gatsby](https://www.gatsbyjs.com/)
 
 👯 I’m looking to collaborate on **more open source repos**
- 🤝 I’m looking for help with **mobile development**
-</p>
 
+🤝 I’m looking for help with **mobile development**
 
 ### Language:
 
@@ -70,5 +72,3 @@
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=jl5her" alt="jl5her" />
