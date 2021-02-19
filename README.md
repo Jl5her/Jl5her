@@ -1,20 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jack Pfeiffer</h1>
 <h3 align="center">A passionate software developer from Wisconsin</h3>
 
-- 💼 I’m currently working as a Quality Control Specialist at [iStream Financial Services](https://www.istreamfs.com/)
-
-- 🔭 In my freetime I am working on [Abacus](https://github.com/acm-mu/abacus).
-
-- 🌱 I’m currently learning [React](https://reactjs.org/), [Node.js](https://nodejs.org/), and
-  [Gatsby](https://www.gatsbyjs.com/)
-
-- 👯 I’m looking to collaborate on **more open source repos**
-
-- 🤝 I’m looking for help with **mobile development**
-
-### Connect with me:
-
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/pfeifferj" target="_blank">
     <img src="https://img.shields.io/badge/Linked_In-006192?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -25,7 +12,18 @@
   <a href="mailto:pfeiffer.jack@yahoo.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-00AFF0?style=for-the-badge&logo=Mail.RU&logoColor=white" />
   </a>
+  
+💼 I’m currently working as a Quality Control Specialist at [iStream Financial Services](https://www.istreamfs.com/)
+
+🔭 In my freetime I am working on [Abacus](https://github.com/acm-mu/abacus).
+
+🌱 I’m currently learning [React](https://reactjs.org/), [Node.js](https://nodejs.org/), and
+  [Gatsby](https://www.gatsbyjs.com/)
+
+👯 I’m looking to collaborate on **more open source repos**
+ 🤝 I’m looking for help with **mobile development**
 </p>
+
 
 ### Language:
 
