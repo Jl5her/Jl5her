@@ -27,7 +27,7 @@
 
 🤝 I’m looking for help with **mobile development**
 
-### Language:
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-D64A17?style=for-the-badge&logo=java&logoColor=white" />
