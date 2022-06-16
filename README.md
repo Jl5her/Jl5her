@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=jl5her" alt="jl5her" />
 </p>
   
-   💼 I’m currently working as a Quality Control Specialist at [iStream Financial Services](https://www.istreamfs.com/)
+   💼 I’m currently working as a Software Engineer at [iStream Financial Services](https://www.istreamfs.com/)
 
 🔭 In my free time I am working on [Abacus](https://github.com/acm-mu/abacus).
 
