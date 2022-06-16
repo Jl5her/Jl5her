@@ -21,7 +21,7 @@
 <!-- 🔭 In my free time I am working on [Abacus](https://github.com/acm-mu/abacus).-->
 
 🌱 I’m currently learning [Swift](https://www.swift.org), [Electron](https://www.electronjs.org/docs/latest/), and
-[Auth0]([https://www.gatsbyjs.com/](https://auth0.com))
+[Auth0]((https://auth0.com)
 
 👯 I’m looking to collaborate on **more open source repos**
 
