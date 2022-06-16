@@ -18,10 +18,10 @@
   
    💼 I’m currently working as a Software Engineer at [iStream Financial Services](https://www.istreamfs.com/)
 
-🔭 In my free time I am working on [Abacus](https://github.com/acm-mu/abacus).
+<!-- 🔭 In my free time I am working on [Abacus](https://github.com/acm-mu/abacus).-->
 
-🌱 I’m currently learning [React](https://reactjs.org/), [Node.js](https://nodejs.org/), and
-[Gatsby](https://www.gatsbyjs.com/)
+🌱 I’m currently learning [Swift](https://www.swift.org), [Electron](https://www.electronjs.org/docs/latest/), and
+[Auth0]([https://www.gatsbyjs.com/](https://auth0.com))
 
 👯 I’m looking to collaborate on **more open source repos**
 
