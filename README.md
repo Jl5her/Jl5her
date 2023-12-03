@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Pfeiffer</h1>
-<h3 align="center">A passionate software developer from Wisconsin</h3>
+<h3 align="center">A passionate software developer from Michigan</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/pfeifferj" target="_blank">
@@ -16,12 +16,11 @@
   <img src="https://komarev.com/ghpvc/?username=jl5her" alt="jl5her" />
 </p>
   
-   💼 I’m currently working as a Software Engineer at [iStream Financial Services](https://www.istreamfs.com/)
+   💼 I’m currently working as a Software Developer at [Michigan Software Labs](https://michiganlabs.com)
 
 <!-- 🔭 In my free time I am working on [Abacus](https://github.com/acm-mu/abacus).-->
 
-🌱 I’m currently learning [Swift](https://www.swift.org), [Electron](https://www.electronjs.org/docs/latest/), and
-[Auth0](https://auth0.com)
+🌱 I’m currently learning [Blazor](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor).
 
 👯 I’m looking to collaborate on **more open source repos**
 
@@ -41,6 +40,7 @@
   <img src="https://img.shields.io/badge/PostgresQL-336791?style=for-the-badge&logo=PostgresQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-7D4698?style=for-the-badge&logo=csharp&logoColor=white">
 </p>
 
 ### Frameworks
@@ -54,6 +54,9 @@
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank">
+    <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" />
   </a>
 </p>
 
