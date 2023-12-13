@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pfeifferj" target="_blank">
-    <img src="https://img.shields.io/badge/Linked_In-006192?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-006192?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/4985777/jack?tab=profile" target="_blank">
     <img
